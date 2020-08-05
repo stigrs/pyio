@@ -14,7 +14,7 @@ with open("requirements.txt", "r") as fh:
     requirements = fh.readlines()
 
 setuptools.setup(
-    name="pyio", 
+    name="pyio",
     version="0.1",
     author="Stig Rune Sellevag",
     author_email="stig-rune.sellevag@ffi.no",
